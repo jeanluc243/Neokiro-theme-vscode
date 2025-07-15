@@ -119,6 +119,16 @@ Found a bug or want to suggest an improvement? Please open an issue or submit a 
 - [VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
 - [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
 
+## Star History
+
+<a href="https://www.star-history.com/#BioHazard786/kiro-theme-vscode&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=BioHazard786/kiro-theme-vscode&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=BioHazard786/kiro-theme-vscode&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=BioHazard786/kiro-theme-vscode&type=Date" />
+ </picture>
+</a>
+
 ## License
 
 MIT License - see the [LICENSE](LICENSE) file for details.
