@@ -2,7 +2,7 @@
   "name": "kiro-theme",
   "displayName": "Kiro Theme",
   "description": "A beautiful and modern VS Code theme forked from Kiro IDE.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "MohdZaid",
   "author": {
     "name": "Mohd Zaid",
@@ -24,13 +24,14 @@
     "vibrant"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/BioHazard786/kiro-theme-vscode",
+  "homepage": "https://github.com/BioHazard786/kiro-theme-vscode/blob/main/README.md",
   "repository": {
     "type": "git",
     "url": "https://github.com/BioHazard786/kiro-theme-vscode.git"
   },
   "bugs": {
-    "url": "https://github.com/BioHazard786/kiro-theme-vscode/issues"
+    "url": "https://github.com/BioHazard786/kiro-theme-vscode/issues",
+    "email": "bzatch70@gmail.com"
   },
   "icon": "icon.png",
   "galleryBanner": {

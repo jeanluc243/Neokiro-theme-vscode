@@ -4,7 +4,8 @@
 
 * This folder contains all of the files necessary for your color theme extension.
 * `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/Kiro-color-theme.json` - the color theme definition file.
+* `themes/kiro-dark.json` - the dark theme definition file.
+* `themes/kiro-light.json` - the light theme definition file.
 
 ## Get up and running straight away
 
@@ -25,4 +26,4 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 ## Install your extension
 
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/api/working-with-extensions/publishing-extension about publishing an extension.
+* To share your extension with the world, read on <https://code.visualstudio.com/api/working-with-extensions/publishing-extension> about publishing an extension.
