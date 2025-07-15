@@ -3,7 +3,7 @@
   "displayName": "Kiro Theme",
   "description": "A beautiful and modern VS Code theme forked from Kiro IDE.",
   "version": "0.0.1",
-  "publisher": "Mohd Zaid",
+  "publisher": "BioHazard786",
   "author": {
     "name": "Mohd Zaid",
     "email": "bzatch70@gmail.com"
@@ -58,6 +58,6 @@
     "publish": "vsce publish"
   },
   "devDependencies": {
-    "vsce": "^3.0.0"
+    "@vscode/vsce": "^3.6.0"
   }
 }
