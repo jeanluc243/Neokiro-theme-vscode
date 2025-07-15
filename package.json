@@ -1,0 +1,63 @@
+{
+  "name": "kiro-theme",
+  "displayName": "Kiro Theme",
+  "description": "A beautiful and modern VS Code theme forked from Kiro IDE.",
+  "version": "0.0.1",
+  "publisher": "Mohd Zaid",
+  "author": {
+    "name": "Mohd Zaid",
+    "email": "bzatch70@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "color-theme",
+    "kiro",
+    "modern",
+    "vibrant"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/BioHazard786/kiro-theme-vscode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BioHazard786/kiro-theme-vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BioHazard786/kiro-theme-vscode/issues"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#7138cc",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kiro Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kiro-dark.json"
+      },
+      {
+        "label": "Kiro Light",
+        "uiTheme": "vs",
+        "path": "./themes/kiro-light.json"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "echo 'No compilation needed for theme'",
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "vsce": "^3.0.0"
+  }
+}
