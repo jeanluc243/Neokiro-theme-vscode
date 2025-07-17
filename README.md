@@ -1,30 +1,32 @@
 <p align="center">
-  <img alt="Kiro Theme Logo" src="https://raw.githubusercontent.com/BioHazard786/kiro-theme-vscode/refs/heads/main/icon.png" width="100" />
+  <img alt="Neo Kiro Theme Logo" src="https://raw.githubusercontent.com/jeanluc243/Neokiro-theme-vscode/refs/heads/main/icon.png" width="100" />
+
+
 </p>
 <h1 align="center">
-  Kiro Theme for VS Code
+  Neo Kiro Theme for VS Code
 </h1>
 <p align="center">
   A beautiful and modern VS Code theme with vibrant purple colors and excellent readability, forked from Kiro IDE.
 </p>
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=MohdZaid.kiro-theme">
-    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/MohdZaid.kiro-theme?color=brightgreen" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=jeanluc243.Neokiro-theme">
+    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/jeanluc243.Neokiro-theme?color=brightgreen" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=MohdZaid.kiro-theme">
-    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/MohdZaid.kiro-theme" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=jeanluc243.Neokiro-theme">
+    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/jeanluc243.Neokiro-theme" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=MohdZaid.kiro-theme">
-    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/MohdZaid.kiro-theme" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=jeanluc243.Neokiro-theme">
+    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/jeanluc243.Neokiro-theme" />
   </a>
 </p>
 
-![Kiro Theme Demo](https://raw.githubusercontent.com/BioHazard786/kiro-theme-vscode/refs/heads/main/images/kiro-dark.png)
+![Neo Kiro Theme Demo](https://raw.githubusercontent.com/BioHazard786/kiro-theme-vscode/refs/heads/main/images/kiro-dark.png)
 
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Kiro Theme` by MohdZaid
+2. Search for `Neo Kiro Theme` by MohdZaid
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
 5. Go to **File > Preferences > Color Theme** and select:
