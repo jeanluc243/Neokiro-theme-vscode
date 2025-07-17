@@ -1,0 +1,43 @@
+{
+  "fonts": [
+    {
+      "id": "kiricons",
+      "src": [
+        {
+          "path": "./Kiricon.ttf",
+          "format": "truetype"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal",
+      "size": "150%" 
+    }
+  ],
+  "iconDefinitions": {
+    "explorer-view-icon": {
+      "fontCharacter": "\\EAF0",
+      "fontId": "kiricons"
+    },
+    "scm-view-icon": {
+      "fontCharacter": "\\EA68",
+      "fontId": "kiricons"
+    },
+    "search-view-icon": {
+      "fontCharacter": "\\EA6D",
+      "fontId": "kiricons"
+    },
+    "extensions-view-icon": {
+      "fontCharacter": "\\EAE6",
+      "fontId": "kiricons"
+    },
+    "settings-view-icon": {
+      "fontCharacter": "\\EAF8, \\EB51",
+      "fontId": "kiricons"
+    },
+    "account-view-icon": {
+      "fontCharacter": "\\EB99",
+      "fontId": "kiricons"
+    }
+  },
+  "productIconTheme": "Kiricons Theme"
+}

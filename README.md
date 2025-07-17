@@ -7,7 +7,8 @@
   Neo Kiro Theme for VS Code
 </h1>
 <p align="center">
-  A beautiful and modern VS Code theme with vibrant purple colors and excellent readability, forked from Kiro IDE.
+  🎨 A refined, full-featured visual theme inspired by the official Kiro IDE.  
+Built for developers who want a sleek, modern, production-ready interface in VS Code.
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=jeanluc243.Neokiro-theme">

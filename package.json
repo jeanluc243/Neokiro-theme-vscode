@@ -1,8 +1,8 @@
 {
   "name": "Neokiro-theme",
   "displayName": "Neo Kiro Theme",
-  "description": "A new beautiful and modern VS Code theme forked from Kiro IDE.",
-  "version": "0.1.0",
+  "description": " 🎨 A refined, full-featured visual theme inspired by the official Kiro IDE",
+  "version": "0.3.0",
   "publisher": "Jeanluc243",
   "author": {
     "name": "Jean Luc KABULU",
@@ -39,6 +39,13 @@
     "theme": "dark"
   },
   "contributes": {
+    "productIconThemes": [
+      {
+        "id": "neokiro-icons",
+        "label": "Neo Kiro Icons",
+        "path": "./f/neokiro-icons.json"
+      }
+    ],
     "themes": [
       {
         "label": "Neo Kiro Dark",
@@ -46,7 +53,7 @@
         "path": "./themes/neokiro-dark.json"
       },
       {
-        "label": "Kiro Light",
+        "label": "Neo Kiro Light",
         "uiTheme": "vs",
         "path": "./themes/neokiro-light.json"
       }
