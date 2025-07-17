@@ -1,12 +1,12 @@
 {
-  "name": "kiro-theme",
-  "displayName": "Kiro Theme",
-  "description": "A beautiful and modern VS Code theme forked from Kiro IDE.",
+  "name": "Neokiro-theme",
+  "displayName": "Neo Kiro Theme",
+  "description": "A new beautiful and modern VS Code theme forked from Kiro IDE.",
   "version": "0.1.0",
-  "publisher": "MohdZaid",
+  "publisher": "Jeanluc243",
   "author": {
-    "name": "Mohd Zaid",
-    "email": "bzatch70@gmail.com"
+    "name": "Jean Luc KABULU",
+    "email": "jeanluc.kabulu0@gmail.com"
   },
   "engines": {
     "vscode": "^1.102.0"
@@ -24,14 +24,14 @@
     "vibrant"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/BioHazard786/kiro-theme-vscode/blob/main/README.md",
+  "homepage": "https://github.com/jeanluc243/Neokiro-theme-vscode/blob/main/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BioHazard786/kiro-theme-vscode.git"
+    "url": "https://github.com/jeanluc243/Neokiro-theme-vscode.git"
   },
   "bugs": {
-    "url": "https://github.com/BioHazard786/kiro-theme-vscode/issues",
-    "email": "bzatch70@gmail.com"
+    "url": "https://github.com/jeanluc243/Neokiro-theme-vscode/issues",
+    "email": "jeanluc.kabulu@gmail.com"
   },
   "icon": "icon.png",
   "galleryBanner": {
@@ -41,14 +41,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Kiro Dark",
+        "label": "Neo Kiro Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/kiro-dark.json"
+        "path": "./themes/neokiro-dark.json"
       },
       {
         "label": "Kiro Light",
         "uiTheme": "vs",
-        "path": "./themes/kiro-light.json"
+        "path": "./themes/neokiro-light.json"
       }
     ]
   },
