@@ -22,6 +22,11 @@
       "fontCharacter": "\\EA68",
       "fontId": "kiricons"
     },
+    "iconDefinitions": {
+    "debug-view-icon": {
+      "fontCharacter": "\\EBA8", 
+      "fontId": "kiriIcons"
+    },
     "search-view-icon": {
       "fontCharacter": "\\EA6D",
       "fontId": "kiricons"

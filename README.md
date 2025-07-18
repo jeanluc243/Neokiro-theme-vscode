@@ -22,21 +22,31 @@ Built for developers who want a sleek, modern, production-ready interface in VS 
   </a>
 </p>
 
-![Neo Kiro Theme Demo](https://raw.githubusercontent.com/BioHazard786/kiro-theme-vscode/refs/heads/main/images/kiro-dark.png)
 
+## Screenshots
+
+### Dark Theme
+
+![Kiro Dark Theme](https://raw.githubusercontent.com/jeanluc243/Neokiro-theme-vscode/refs/heads/main/images/Neokiro-dark.png)
+
+### Light Theme
+
+![Kiro Light Theme](https://raw.githubusercontent.com/jeanluc243/Neokiro-theme-vscode/refs/heads/main/images/Neokiro-light.png)
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Neo Kiro Theme` by MohdZaid
+2. Search for `Neo Kiro Theme` by Jeanluc243
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
 5. Go to **File > Preferences > Color Theme** and select:
-   - **Kiro Dark** for dark theme
-   - **Kiro Light** for light theme
+   - **Neo Kiro Dark** for dark theme
+   - **Neo Kiro Light** for light theme
+6. Go to **⚙︎ > Themes >Product Icons Theme** and select :
+   - **Neo Kiro Icons**
 
 ## Manual Installation
 
-Read the [VSC Extension Quickstart Guide](https://github.com/BioHazard786/kiro-theme-vscode/blob/main/vsc-extension-quickstart.md)
+Read the [VSC Extension Quickstart Guide](https://github.comjeanluc243/Neokiro-theme-vscode/blob/main/vsc-extension-quickstart.md)
 
 ## Features
 
@@ -104,33 +114,14 @@ Read the [VSC Extension Quickstart Guide](https://github.com/BioHazard786/kiro-t
 
 ## Contributing
 
-Found a bug or want to suggest an improvement? Please open an issue or submit a pull request on [GitHub](https://github.com/BioHazard786/kiro-theme-vscode).
+Found a bug or want to suggest an improvement? Please open an issue or submit a pull request on [GitHub](https://github.com/jeanluc243/Neokiro-theme-vscode).
 
-## Screenshots
-
-### Dark Theme
-
-![Kiro Dark Theme](https://raw.githubusercontent.com/BioHazard786/kiro-theme-vscode/refs/heads/main/images/kiro-dark.png)
-
-### Light Theme
-
-![Kiro Light Theme](https://raw.githubusercontent.com/BioHazard786/kiro-theme-vscode/refs/heads/main/images/kiro-light.png)
 
 ## Theming Reference
 
 - [VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 - [VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
 - [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
-
-## Star History
-
-<a href="https://www.star-history.com/#BioHazard786/kiro-theme-vscode&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=BioHazard786/kiro-theme-vscode&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=BioHazard786/kiro-theme-vscode&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=BioHazard786/kiro-theme-vscode&type=Date" />
- </picture>
-</a>
 
 ## License
 
@@ -142,4 +133,4 @@ See [CHANGELOG.md](CHANGELOG.md) for release notes.
 
 ---
 
-**Enjoy coding with Kiro Theme!** 🎨
+**Enjoy coding with Neo Kiro Theme! 2025** 🎨
