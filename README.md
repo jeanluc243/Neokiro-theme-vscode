@@ -27,11 +27,19 @@ Built for developers who want a sleek, modern, production-ready interface in VS 
 
 ### Dark Theme
 
-![Kiro Dark Theme](https://raw.githubusercontent.com/jeanluc243/Neokiro-theme-vscode/refs/heads/main/images/Neokiro-dark.png)
 
-### Light Theme
+<p align="center">
+  <span style="display:inline-block; text-align:center; width:45%; vertical-align:top;">
+    <strong>DARK THEME</strong><br/>
+    <img alt="Kiro Dark Theme" src="https://raw.githubusercontent.com/jeanluc243/Neokiro-theme-vscode/refs/heads/main/images/Neokiro-dark.png" width="100%" style="display:inline-block; margin-right: 8px;" />
+  </span>
+  <span style="display:inline-block; text-align:center; width:45%; vertical-align:top;">
+    <strong>LIGHT THEME</strong><br/>
+    <img alt="Kiro Light Theme" src="https://raw.githubusercontent.com/jeanluc243/Neokiro-theme-vscode/refs/heads/main/images/Neokiro-light.png" width="100%" style="display:inline-block;" />
+  </span>
+</p>
 
-![Kiro Light Theme](https://raw.githubusercontent.com/jeanluc243/Neokiro-theme-vscode/refs/heads/main/images/Neokiro-light.png)
+
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
