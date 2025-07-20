@@ -14,6 +14,7 @@
     }
   ],
   "iconDefinitions": {
+    
     "explorer-view-icon": {
       "fontCharacter": "\\EAF0",
       "fontId": "kiricons"
@@ -22,10 +23,9 @@
       "fontCharacter": "\\EA68",
       "fontId": "kiricons"
     },
-    "iconDefinitions": {
     "debug-view-icon": {
       "fontCharacter": "\\EBA8", 
-      "fontId": "kiriIcons"
+      "fontId": "kiricons"
     },
     "search-view-icon": {
       "fontCharacter": "\\EA6D",
@@ -42,7 +42,34 @@
     "account-view-icon": {
       "fontCharacter": "\\E006",
       "fontId": "kiricons"
+    },
+    "terminal-view-icon": {
+      "fontCharacter": "\\EA85",
+      "fontId": "kiricons"
+    },
+    "search-details" : {
+      "fontCharacter": "\\EA7C",
+      "fontId": "kiricons"
+    },
+    "customEllipsis": {
+      "fontCharacter": "\\EA7C",
+      "fontId": "kiricons"
+    },
+    "testing-view-icon": {
+      "fontCharacter": "\\EA79",
+      "fontId": "kiricons"
+    },
+    "filter-view-icon": {
+      "fontCharacter": "\\EAF1",
+      "fontId": "kiricons"
+    },
+    "refresh-icon": {
+      "fontCharacter": "\\EB37",
+      "fontId": "kiricons"
     }
+  },
+  "icon": {
+    "ellipsis": "customEllipsis"
   },
   "productIconTheme": "Kiricons Theme"
 }

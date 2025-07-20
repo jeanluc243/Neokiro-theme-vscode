@@ -2,6 +2,13 @@
   "name": "Neo Kiro Dark",
   "type": "dark",
   "colors": {
+
+    "sideBar.border": "#2b2b2b",
+    "editorGroup.border": "#2b2b2b",
+    "editorGroupHeader.tabsBorder": "#2b2b2b",
+    "panel.border": "#2b2b2b",
+    "tab.border": "#2b2b2b",
+
     "accent": "#b080ff",
     "background": "#19161d",
     "foreground": "#ffffff",
@@ -50,10 +57,10 @@
     "editorInfo.foreground": "#8dc8fb",
     "editorWarning.foreground": "#ffcf99",
     "editorGroupHeader.tabsBackground": "#28242e",
-    "editorGroupHeader.tabsBorder": "#4a464f",
+    
     "editorGroupHeader.border": "#00000000",
-    "editorGroup.border": "#4a464f",
-    "tab.border": "#4a464f",
+    
+    
     "tab.activeBorder": "#211d25",
     "tab.activeBorderTop": "#b080ff",
     "tab.activeBackground": "#28242e",
@@ -99,7 +106,7 @@
     "notificationsErrorIcon.foreground": "#ff8080",
     "notificationsWarningIcon.foreground": "#ffcf99",
     "sideBar.background": "#211d25",
-    "sideBar.foreground": "#ffffff",
+    "sideBar.foreground": "#CCCCCC",
     "sideBarSectionHeader.background": "#211d25",
     "sideBarSectionHeader.border": "#352f3d",
     "sideBarTitle.background": "#28242e",
@@ -120,7 +127,7 @@
     "tree.inactiveIndentGuidesStroke": "#00000000",
     "tree.indentGuidesStroke": "#00000000",
     "panel.background": "#211d25",
-    "panel.border": "#00000000",
+
     "panelTitle.activeBorder": "#00000000",
     "panelTitle.activeForeground": "#ffffff",
     "panelTitle.activeBackground": "#352f3d",
@@ -624,3 +631,4 @@
     }
   ]
 }
+

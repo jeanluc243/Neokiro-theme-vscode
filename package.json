@@ -38,10 +38,11 @@
     "color": "#7138cc",
     "theme": "dark"
   },
+  
   "contributes": {
     "productIconThemes": [
       {
-        "id": "neokiro-icons",
+        "id": "kiricons",
         "label": "Neo Kiro Icons",
         "path": "./f/neokiro-icons.json"
       }
@@ -68,4 +69,7 @@
   "devDependencies": {
     "@vscode/vsce": "^3.6.0"
   }
+
+
+  
 }
